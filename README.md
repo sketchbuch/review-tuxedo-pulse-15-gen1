@@ -104,7 +104,7 @@ Charging via USB-C works well with my 87W Apple charger but I plan on getting my
 
 ### Games
 
-This was also surprising. On my InfinityBook I can only play games at reduced resolution with many graphics options off. With the Pulse I could play Pillars of Eternity 2 Deadfire on full resolution and all graphics options on their default without experiencing any slow down/lag and the fan barely comes on! I shall be trying other games soon like Verdun, X-Com and Pathfinder - Kingmaker and will update this review when I know more.
+This was also surprising. On my InfinityBook I can only play games at reduced resolution with many graphics options off. With the Pulse I could play Pillars of Eternity 2 Deadfire on full resolution and all graphics options on their default without experiencing any slow down/lag and the fan barely comes on! This is even on large big fights with many effects happening at once. I shall be trying other games soon like Verdun, X-Com and Pathfinder - Kingmaker and will update this review when I know more.
 
 ## Problems encountered
 
