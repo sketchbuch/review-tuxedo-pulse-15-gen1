@@ -132,13 +132,13 @@ What is odd is that the laptop doesn't really get hot or turn on the fans much e
 
 The following videos are not great quality and trying to play verdun with 1 hand whilst holding my mobile in the other gives the impression that there is lag when there isn't. It plays really smooth.
 
-(Video - Deadfire)[https://photos.app.goo.gl/8ptD9Py8xmoa7Qex8]
+[Video - Deadfire](https://photos.app.goo.gl/8ptD9Py8xmoa7Qex8)
 
-(Video - XCOM2)[https://photos.app.goo.gl/3RK2u7GoXx7zj5mJ8]
+[Video - XCOM2](https://photos.app.goo.gl/3RK2u7GoXx7zj5mJ8)
 
-(Video - Verdun 1)[https://photos.app.goo.gl/bxdnbSCTQvZfuTwj9]
+[Video - Verdun 1](https://photos.app.goo.gl/bxdnbSCTQvZfuTwj9)
 
-(Video - Verdun 2)[https://photos.app.goo.gl/rPMPhmMo6HU5G9RBA]
+[Video - Verdun 2](https://photos.app.goo.gl/rPMPhmMo6HU5G9RBA)
 
 ## Software/OS
 
