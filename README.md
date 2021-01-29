@@ -112,7 +112,7 @@ I order Ubuntu 20.04. Unlike 20.04 that you can download from Ubuntu,  the Tuxed
 
 There was no Ubuntu Snap store (but snapd is installed), just Gnome's and a KDE store. I'm not sure if 20.04 comes with the Snap store or not but I did expect it to be installed, but this can easily be added via the terminal.
 
-The Gnome Activities hotcorner was also turned off, I reenabled this via Gnome Tweaks.
+The Gnome Activities hot corner was also turned off, I re-enabled this via Gnome Tweaks. This is so useful and the wave effect looks cool! Why was this switched off?
 
 There was also lots of software installed that I didn't want or expect. A lot of KDE stuff and free games. There was even some duplication like a KDE terminal and KDE System Monitor when Gnome already has these. I would rather that Tuxedo had not installed this stuff, maybe they should provide an unistall script for this stuff. 
 
