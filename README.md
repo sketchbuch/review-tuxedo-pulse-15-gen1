@@ -12,7 +12,7 @@ A review of the [Tuxedo Pulse 15 (Gen 1)](https://www.tuxedocomputers.com/en/Lin
 
 In this review I’m mainly comparing it to my previous Tuxedo laptop so here are the specs for that so you can see what I’m comparing it to:
 
-### InfinityBook 13 Gen 2 (2016)
+### InfinityBook 13 Gen 2 (2015)
 
 ![InfinityBook Specs](https://raw.githubusercontent.com/sketchbuch/review-tuxedo-pulse-15-gen1/main/images/Infinity%20Book%2013%20-%20Specs.png)
 
@@ -36,7 +36,7 @@ The box it came in is matt black with a recess in the middle that runs all the w
 
 In the box there is also a USB stick for reinstalling the operating system as well as a mouse pad, two pens and various other things. 
 
-When I first removed the laptop I was surprised how light it was, I really was expecting it to be heavier, in fact I would guess that it is slightly lighter than my previous laptop (Tuxedo InfinityBook 13 Gen 2 from 2016).
+When I first removed the laptop I was surprised how light it was, I really was expecting it to be heavier, in fact I would guess that it is slightly lighter than my previous laptop (Tuxedo InfinityBook 13 Gen 2 from 2015).
 
 ![Box 1](https://raw.githubusercontent.com/sketchbuch/review-tuxedo-pulse-15-gen1/main/images/Box%201.jpg)
 
