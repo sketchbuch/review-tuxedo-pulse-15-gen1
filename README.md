@@ -40,9 +40,9 @@ When I first removed the laptop I was surprised how light it was, I really was e
 
 ![Box 2](https://raw.githubusercontent.com/sketchbuch/review-tuxedo-pulse-15-gen1/main/images/Box%202.jpg)
 
-![Box 3](https://raw.githubusercontent.com/sketchbuch/review-tuxedo-pulse-15-gen1/main/images/Box%203.jpg)
-
 ![Box 4](https://raw.githubusercontent.com/sketchbuch/review-tuxedo-pulse-15-gen1/main/images/Box%204.jpg)
+
+![Box 3](https://raw.githubusercontent.com/sketchbuch/review-tuxedo-pulse-15-gen1/main/images/Box%203.jpg)
 
 ## The Case
 
