@@ -160,7 +160,7 @@ I repartitioned the drive via a Live USB stick and moved /home to it's own parti
 * ~~Webcam appears not to work correctly. This is my biggest issue right now.~~ **This has been fixed by installing mpv - see the reddit thread.**
 * No function key to switch off the display
 * There is a slight very quiet ticking/pulsing noise but this can only be heard in complete silence
-* Would have like more USB-C ports instead or the older rectangular USB ports
+* Would have like more USB-C ports instead of the older rectangular USB ports
 * Bluetooth issues
 
 ## Conclusion
