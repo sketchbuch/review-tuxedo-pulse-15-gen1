@@ -113,7 +113,7 @@ I tried several games, many were completely playable at full resolution and no c
 - Verdun
 - Pathfinder - Kingmaker
 
-Some were playable but mentioned that my GPU was not up to spec... I played aynway:
+Some were playable but mentioned that my GPU was not up to spec... I played anyway:
 - Tannenberg (Verdun 2)
 
 Still to try:
