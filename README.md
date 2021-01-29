@@ -110,7 +110,7 @@ This was also surprising. On my InfinityBook I can only play games at reduced re
 
 I order Ubuntu 20.04. Unlike 20.04 that you can download from Ubuntu,  the Tuxedo version has the Tuxedo logo. As I ordered Ubuntu and not Tuxedo OS I would rather that the Ubuntu logo appeared rather than Tuxedo's when starting and they also added desktop icons to the desktop which I dislike. Maybe they could leave Ubuntu as close to stock as possible - but this is not so important.
 
-There was no Ubuntu Snap store (but snapd is installed), just Gnome's and a KDE store. I'm not sure if 20.04 comes with the Snap store or not but I did expect it to be installed, but this can easily be added via the terminal.
+There was no Ubuntu Snap store (but snapd is installed), just Gnome's and a KDE store. I'm not sure if 20.04 comes with the Snap store or not (maybe this only comes in 20.10) but I did expect it to be installed, but this can easily be added via the terminal.
 
 The Gnome Activities hot corner was also turned off, I re-enabled this via Gnome Tweaks. This is so useful and the wave effect looks cool! Why was this switched off?
 
