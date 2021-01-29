@@ -133,7 +133,7 @@ I repartitioned the drive via a Live USB stick and moved /home to it's own parti
 
 ### Cons
 
-* Webcam appears not to work correctly. This is my biggest issue righ now.
+* Webcam appears not to work correctly. This is my biggest issue right now.
 * No function key to switch off the display
 * There is a slight very quiet ticking/pulsing noise but this can only be heard in complete silence
 * Would have like more USB-C ports instead or the older rectangular USB ports
