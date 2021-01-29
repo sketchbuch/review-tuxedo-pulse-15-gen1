@@ -102,6 +102,10 @@ This laptop would be perfectly usable in an office environment and wouldn’t bo
 
 Charging via USB-C works well with my 87W Apple charger but I plan on getting my own USB charger for this. The battery life is amazing and will certainly be useful when travelling. 
 
+### Games
+
+This was also surprising. On my InfinityBook I can only play games at reduced resolution with many graphics options off. With the Pulse I could play Pillars of Eternity 2 Deadfire on full resolution and all graphics options on their default without experiencing any slow down/lag and the fan barely comes on! I shall be trying other games soon like Verdun, X-Com and Pathfinder - Kingmaker and will update this review when I know more.
+
 ## Problems encountered
 
 * The backlight sometimes fails to come on and a reboot is required.
