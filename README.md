@@ -128,6 +128,18 @@ I haven't had any need of headphones, that is how quiet it is when playing. ~~I 
 
 What is odd is that the laptop doesn't really get hot or turn on the fans much even when playing games like Tanneberg. **Strangely the fan makes more noise installing the games than actually playing them.**
 
+### Videos
+
+The following videos are not great quality and trying to play verdun with 1 hand whilst holding my mobile in the other gives the impression that there is lag when there isn't. It plays really smooth.
+
+(Video - Deadfire)[https://photos.app.goo.gl/8ptD9Py8xmoa7Qex8]
+
+(Video - XCOM2)[https://photos.app.goo.gl/3RK2u7GoXx7zj5mJ8]
+
+(Video - Verdun 1)[https://photos.app.goo.gl/bxdnbSCTQvZfuTwj9]
+
+(Video - Verdun 2)[https://photos.app.goo.gl/rPMPhmMo6HU5G9RBA]
+
 ## Software/OS
 
 I order Ubuntu 20.04. Unlike 20.04 that you can download from Ubuntu,  the Tuxedo version has the Tuxedo logo. As I ordered Ubuntu and not Tuxedo OS I would rather that the Ubuntu logo appeared rather than Tuxedo's when starting and they also added desktop icons to the desktop which I dislike. Maybe they could leave Ubuntu as close to stock as possible - but this is not so important.
