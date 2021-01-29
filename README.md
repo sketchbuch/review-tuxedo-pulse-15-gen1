@@ -80,7 +80,7 @@ The backlight doesn’t bleed too much, and seems pretty consistent across the w
 
 There are no issues with the keys and within an hour I was used to its feel. At first I touched the wrong keys as the layout and spacing are slightly different from what I have been using.
 
-I do miss a function key to turn the backlight on and off but it is something I can live with (someone pointed out that Fn + Space turns the light on and off). The caps lock key has an LED so, unlike my InfinityBook, I can actually see when caps lock is on.
+I do miss a function key to turn the backlight on and off but it is something I can live with (someone pointed out that <kbd>Fn</kbd> + <kbd>Space</kbd> turns the light on and off). The caps lock key has an LED so, unlike my InfinityBook, I can actually see when caps lock is on.
 
 ![Case Open](https://github.com/sketchbuch/review-tuxedo-pulse-15-gen1/blob/main/images/Keyboard.jpg)
 
@@ -113,7 +113,7 @@ I repartitioned the drive via a Live USB stick and moved /home to it's own parti
 
 ## Problems encountered
 
-* The backlight sometimes fails to come on and a reboot is required.
+* ~~The backlight sometimes fails to come on and a reboot is required.~~ I think maybe I toggled it off with <kbd>Fn</kbd> + <kbd>Space</kbd>
 * My new Logitech MX Vertical mouse would stop working periodically when connected via Bluetooth - with USB it is fine. I have no issues with the mouse on my MacBook or InfinityBook so I assume this is a Pulse issue. Maybe this would also be fixed by using Ubuntu 20.10, but I’m not sure. My InfinityBook uses 20.10 and has no issues with Bluetooth.
 * The biggest problem is that the Webcam seems to be low resolution and unuseable. See: https://www.reddit.com/r/tuxedocomputers/comments/l75bjj/pulse_webcam_laggy/
 * Luckily I don’t actually use webcams much so I hope that this will get fixed with a driver update or BIOS update by Tuxedo.
