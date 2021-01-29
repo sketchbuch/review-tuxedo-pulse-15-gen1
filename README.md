@@ -149,7 +149,7 @@ I repartitioned the drive via a Live USB stick and moved /home to it's own parti
 
 I read in other reviews of the pulse that the keys are buckled or not printed well and someone even had a bent case. I can report that I have none of these issues. I would recommend this laptop to anyone, even people who play games - but if you are a real hard-core gamer who needs to play the latest games at maximum graphics settings you would probably be better off with the Tuxedo Polaris or similar.
 
-The Pulse has exceeded my expectations and I would certainly buy future generations of this laptop. I would suggest for future generations that Tuxedo should:
+The Pulse has exceeded my expectations - it is beautiful, looks and feels like a very premium laptop it is amazingly powerful. I would certainly buy future generations of this laptop. I would suggest for future generations that Tuxedo should:
 
 * Only have USB-C ports
 * Remove the SD card reader - does anyone still use these?
