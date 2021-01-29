@@ -1,6 +1,6 @@
 # Tuxedo Pulse 15 Review
 
-A review of the Tuxedo Pulse 15 (Gen 1)
+A review of the Tuxedo Pulse 15 (Gen 1).
 
 ## Specs
 
