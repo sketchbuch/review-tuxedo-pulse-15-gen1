@@ -120,10 +120,10 @@ I repartitioned the drive via a Live USB stick and moved /home to it's own parti
 
 ## Problems encountered
 
-* ~~The backlight sometimes fails to come on and a reboot is required.~~ I think maybe I toggled it off with <kbd>Fn</kbd> + <kbd>Space</kbd>
+* ~~The backlight sometimes fails to come on and a reboot is required.~~ **I think maybe I toggled it off with <kbd>Fn</kbd> + <kbd>Space</kbd>**
 * My new Logitech MX Vertical mouse would stop working periodically when connected via Bluetooth - with USB it is fine. I have no issues with the mouse on my MacBook or InfinityBook so I assume this is a Pulse issue. Maybe this would also be fixed by using Ubuntu 20.10, but I’m not sure. My InfinityBook uses 20.10 and has no issues with Bluetooth.
-* The biggest problem is that the Webcam seems to be low resolution and unuseable. See: https://www.reddit.com/r/tuxedocomputers/comments/l75bjj/pulse_webcam_laggy/
-* Luckily I don’t actually use webcams much so I hope that this will get fixed with a driver update or BIOS update by Tuxedo.
+* ~~The biggest problem is that the Webcam seems to be low resolution and unuseable. See: https://www.reddit.com/r/tuxedocomputers/comments/l75bjj/pulse_webcam_laggy/~~ **This has been fixed by installing mpv - see the reddit thread.**
+* ~~Luckily I don’t actually use webcams much so I hope that this will get fixed with a driver update or BIOS update by Tuxedo.~~
 
 ## Pros and Cons
 
@@ -139,7 +139,7 @@ I repartitioned the drive via a Live USB stick and moved /home to it's own parti
 
 ### Cons
 
-* Webcam appears not to work correctly. This is my biggest issue right now.
+* ~~Webcam appears not to work correctly. This is my biggest issue right now.~~ **This has been fixed by installing mpv - see the reddit thread.**
 * No function key to switch off the display
 * There is a slight very quiet ticking/pulsing noise but this can only be heard in complete silence
 * Would have like more USB-C ports instead or the older rectangular USB ports
