@@ -2,6 +2,8 @@
 
 A review of the Tuxedo Pulse 15 (Gen 1).
 
+![Pulse 4](https://raw.githubusercontent.com/sketchbuch/review-tuxedo-pulse-15-gen1/main/images/Desktop.jpg)
+
 ## Specs
 
 ### Pulse 15 Gen 1 (2020)
@@ -182,7 +184,5 @@ The Pulse has exceeded my expectations - it is beautiful, looks and feels like a
 ![Pulse 2](https://raw.githubusercontent.com/sketchbuch/review-tuxedo-pulse-15-gen1/main/images/Power%20Settings.jpg)
 
 ![Pulse 3](https://raw.githubusercontent.com/sketchbuch/review-tuxedo-pulse-15-gen1/main/images/Processors.jpg)
-
-![Pulse 4](https://raw.githubusercontent.com/sketchbuch/review-tuxedo-pulse-15-gen1/main/images/Desktop.jpg)
 
 *NB: I plan on updating this review when I have used the Pulse for longer - especially when I have played games for longer. If you have any questions post them as issues in this repo or on the [reddit thread](https://www.reddit.com/r/tuxedocomputers/comments/l7ngbi/tuxedo_pulse_15_review/).*
