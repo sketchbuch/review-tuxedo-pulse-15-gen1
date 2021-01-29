@@ -111,7 +111,7 @@ I tried several games, many were completely playable at full resolution and no c
 - Pillars of Eternity 2: Deadfire
 - Pillars of Eternity
 - Verdun
-- Path Maker Kngmaker
+- Pathfinder - Kingmaker
 
 Some were playable but mentioned that my GPU was not up to spec... I played aynway:
 - Tannenberg (Verdun 2)
@@ -124,7 +124,7 @@ Still to try:
 
 What is odd is that the laptop doesn't really get hot or turn on the fans much even when playing games like Tanneberg. Strangely the fan makes more noise installing the games than actually playing them.
 
-### Software/OS
+## Software/OS
 
 I order Ubuntu 20.04. Unlike 20.04 that you can download from Ubuntu,  the Tuxedo version has the Tuxedo logo. As I ordered Ubuntu and not Tuxedo OS I would rather that the Ubuntu logo appeared rather than Tuxedo's when starting and they also added desktop icons to the desktop which I dislike. Maybe they could leave Ubuntu as close to stock as possible - but this is not so important.
 
