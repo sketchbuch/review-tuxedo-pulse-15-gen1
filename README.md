@@ -1,6 +1,6 @@
 # Tuxedo Pulse 15 Review
 
-A review of the Tuxedo Pulse 15 (Gen 1).
+A review of the [Tuxedo Pulse 15 (Gen 1)](https://www.tuxedocomputers.com/en/Linux-Hardware/Linux-Notebooks/15-16-inch/TUXEDO-Book-Pulse-15-Gen1.tuxedo).
 
 ![Pulse 4](https://raw.githubusercontent.com/sketchbuch/review-tuxedo-pulse-15-gen1/main/images/Desktop.jpg)
 
