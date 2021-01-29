@@ -87,7 +87,9 @@ I do miss a function key to turn the backlight on and off but it is something I 
 ### Touchpad
 
 I’m afraid I never really use these so can’t say much about it except that there is an LED in the top right corner that comes on when the touchpad is off. You can toggle it on and off by double clicking the LED. There are no buttons so you get a large area to swipe around on.
-Noise/Heat
+
+### Noise/Heat
+
 When not doing much the laptop is cool and quiet. I’m just using the default profile in the ControlCentre that was configured when I received the laptop, I haven’t had any reason to change this yet.
 
 I haven’t felt any real heat from the laptop even when playing games, although admittedly I haven’t tried playing for a long time yet. I also need to develop but I imagine the fan will start then from time-to-time - even my MacBook does this and so did the InfinityBook.
