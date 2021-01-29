@@ -110,6 +110,8 @@ This was also surprising. On my InfinityBook I can only play games at reduced re
 
 I order Ubuntu 20.04. Unlike 20.04 that you can download from Ubuntu,  the Tuxedo version has the Tuxedo logo. As I ordered Ubuntu and not Tuxedo OS I would rather that the Ubuntu logo appeared rather than Tuxedo's when starting and they also added desktop icons to the desktop which I dislike. Maybe they could leave Ubuntu as close to stock as possible - but this is not so important.
 
+There was no Ubuntu Snap store (but snapd is installed), just Gnome's and a KDE store. I'm not sure if 20.04 comes with the Snap store or not but I did expect it to be installed, but this can easily be added via the terminal.
+
 There was also lots of software installed that I didn't want or expect. A lot of KDE stuff and free games. There was even some duplication like a KDE terminal and KDE System Monitor when Gnome already has these. I would rather that Tuxedo had not installed this stuff, maybe they should provide an unistall script for this stuff. 
 
 I repartitioned the drive via a Live USB stick and moved /home to it's own partition. It would be nice if this was an option when ordering. There was also a swap partition which I didn't think Ubuntu needed anymore. Not sure if this is better than a swap file, but maybe Tuxedo prefer it. 
