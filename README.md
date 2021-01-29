@@ -112,6 +112,8 @@ I order Ubuntu 20.04. Unlike 20.04 that you can download from Ubuntu,  the Tuxed
 
 There was no Ubuntu Snap store (but snapd is installed), just Gnome's and a KDE store. I'm not sure if 20.04 comes with the Snap store or not but I did expect it to be installed, but this can easily be added via the terminal.
 
+The Gnome Activities hotcorner was also turned off, I reenabled this via Gnome Tweaks.
+
 There was also lots of software installed that I didn't want or expect. A lot of KDE stuff and free games. There was even some duplication like a KDE terminal and KDE System Monitor when Gnome already has these. I would rather that Tuxedo had not installed this stuff, maybe they should provide an unistall script for this stuff. 
 
 I repartitioned the drive via a Live USB stick and moved /home to it's own partition. It would be nice if this was an option when ordering. There was also a swap partition which I didn't think Ubuntu needed anymore. Not sure if this is better than a swap file, but maybe Tuxedo prefer it. 
