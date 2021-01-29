@@ -6,9 +6,13 @@ A review of the Tuxedo Pulse 15 (Gen 1)
 
 ### Pulse 15 Gen 1 (2020)
 
+![Pulse Specs](https://raw.githubusercontent.com/sketchbuch/review-tuxedo-pulse-15-gen1/main/images/Tuxedo%20Pulse%2015%20-%20Specs.png)
+
 In this review I’m mainly comparing it to my previous Tuxedo laptop so here are the specs for that so you can see what I’m comparing it to:
 
-### Pulse 15 Gen 1 (2020)
+### InfinityBook 13 Gen 2 (2016)
+
+![InfinityBook Specs](https://raw.githubusercontent.com/sketchbuch/review-tuxedo-pulse-15-gen1/main/images/Infinity%20Book%2013%20-%20Specs.png)
 
 ## My use-case
 
@@ -18,13 +22,27 @@ I also travel a lot so I was looking for a laptop that is light, but powerful an
 
 I don’t use external monitors so have no idea how ideal the Pulse is if you want this kind of setup.
 
+One of my requirements was more RAM, I'm starting to some times get low on RAM especially when developing Flutter apps and runnning Android emulators. As I wasn't sure how much RAM the Pulse's iGPU would use, I went with 32GB of RAM. I would have been happy with 24GB but this wasn't an option.
+A larger SSD was also a requirement as I'm running out of space on my current laptop. I chose a 1TB Evo Pro.
+
 ## The Packaging
 
 The box it came in is matt black with a recess in the middle that runs all the way around it - a bit like a rectangular Death Star. It looks and feels like a premium product, a great improvement on the box that my InfinityBook came with. 
 
+![Goodies](https://raw.githubusercontent.com/sketchbuch/review-tuxedo-pulse-15-gen1/main/images/Goodies.jpg)
+
+
 In the box there is also a USB stick for reinstalling the operating system as well as a mouse pad, two pens and various other things. 
 
 When I first removed the laptop I was surprised how light it was, I really was expecting it to be heavier, in fact I would guess that it is slightly lighter than my previous laptop (Tuxedo InfinityBook 13 Gen 2 from 2016).
+
+![Box 1](https://raw.githubusercontent.com/sketchbuch/review-tuxedo-pulse-15-gen1/main/images/Box%201.jpg)
+
+![Box 2](https://raw.githubusercontent.com/sketchbuch/review-tuxedo-pulse-15-gen1/main/images/Box%202.jpg)
+
+![Box 3](https://raw.githubusercontent.com/sketchbuch/review-tuxedo-pulse-15-gen1/main/images/Box%203.jpg)
+
+![Box 4](https://raw.githubusercontent.com/sketchbuch/review-tuxedo-pulse-15-gen1/main/images/Box%204.jpg)
 
 ## The Case
 
@@ -32,16 +50,23 @@ It is a black/dark grey magnesium alloy - everywhere I believe except around the
 
 There aren’t really any sharp corners, everything is rounded off and feels nice to the touch. The lid logo is dark black and very subdued, there is no Tuxedo logo on the inside of the case which is nice. Fortunately there are no stickers on the keyboard frame, but if you like these things there are Ryzen stickers included in the box.
 
+![Case Closed](https://raw.githubusercontent.com/sketchbuch/review-tuxedo-pulse-15-gen1/main/images/Case%20Closed.jpg)
+
+![Case Open](https://raw.githubusercontent.com/sketchbuch/review-tuxedo-pulse-15-gen1/main/images/Case%20Open.jpg)
+
 ## First Impressions
 
 ### Size
 
 This is the thing that surprised me the most. Compared to my 13” laptop it really isn’t much bigger.
 
+![Case Open](https://raw.githubusercontent.com/sketchbuch/review-tuxedo-pulse-15-gen1/main/images/Size%20comparison.jpg)
 
 ### Screen
 
 It powers up quickly and is silent. The screen is very bright and I’m happy to say it has no light bleed. I maxed the brightness but found it too bright so I left that at around 50% **(all videos and images of the screen in this review are also at mid brightness level)**.
+
+![Screen](https://raw.githubusercontent.com/sketchbuch/review-tuxedo-pulse-15-gen1/main/images/Gnome%20Info.jpg)
 
 ### Keyboard
 
@@ -56,6 +81,8 @@ The backlight doesn’t bleed too much, and seems pretty consistent across the w
 There are no issues with the keys and within an hour I was used to its feel. At first I touched the wrong keys as the layout and spacing are slightly different from what I have been using.
 
 I do miss a function key to turn the backlight on and off but it is something I can live with. The caps lock key has an LED so, unlike my InfinityBook, I can actually see when caps lock is on.
+
+![Case Open](https://github.com/sketchbuch/review-tuxedo-pulse-15-gen1/blob/main/images/Keyboard.jpg)
 
 ### Touchpad
 
@@ -113,4 +140,12 @@ The Pulse has exceeded my expectations and would certainly buy future generation
 * Provide the option of buying a USB-C charger, either instead of or in addition to a normal charger
 * Provide an uninstall script for the additional software that you install
 
-*NB: I plan on updating this review when I have used the Pulse for longer. If you have any questions post them as issues in this repo or on the reddit thread.*
+![Pulse 1](https://raw.githubusercontent.com/sketchbuch/review-tuxedo-pulse-15-gen1/main/images/Power%20Shot.jpg)
+
+![Pulse 2](https://raw.githubusercontent.com/sketchbuch/review-tuxedo-pulse-15-gen1/main/images/Power%20Settings.jpg)
+
+![Pulse 3](https://raw.githubusercontent.com/sketchbuch/review-tuxedo-pulse-15-gen1/main/images/Processors.jpg)
+
+![Pulse 4](https://raw.githubusercontent.com/sketchbuch/review-tuxedo-pulse-15-gen1/main/images/Desktop.jpg)
+
+*NB: I plan on updating this review when I have used the Pulse for longer - especially when I have played games for longer. If you have any questions post them as issues in this repo or on the reddit thread.*
