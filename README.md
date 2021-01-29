@@ -108,7 +108,9 @@ This was also surprising. On my InfinityBook I can only play games at reduced re
 
 ### Software/OS
 
-I order Ubuntu 20.04. Unlike the 20.04 the Tuxedo version has the Tuxedo logo. There was also lots of software installed that I didn't want or expect. A lot of KDE stuff and free games. There was even some duplication like a KDE terminal and KDE System Monitor when Gnome already has these. I would rather that Tuxedo had not installed this stuff, maybe they should provide an unistall script for this stuff.
+I order Ubuntu 20.04. Unlike the 20.04 the Tuxedo version has the Tuxedo logo. There was also lots of software installed that I didn't want or expect. A lot of KDE stuff and free games. There was even some duplication like a KDE terminal and KDE System Monitor when Gnome already has these. I would rather that Tuxedo had not installed this stuff, maybe they should provide an unistall script for this stuff. 
+
+As I ordered Ubuntu and not Tuxedo OS I would rather that the Ubuntu logo appeared rather than Tuxedo's when starting and they also added desktop icons to the desktop which I dislike. Maybe they could leave Ubuntu as close to stock as possible - but this is not so important.
 
 I repartitioned the drive via a Live USB stick and moved /home to it's own partition. It would be nice if this was an option when ordering. There was also a swap partition which I didn't think Ubuntu needed anymore. Not sure if this is better than a swap file, but maybe Tuxedo prefer it. 
 
