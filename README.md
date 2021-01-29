@@ -122,7 +122,9 @@ Still to try:
 - Stelaris (Should be OK)
 - Masters of Orion (Should be OK)
 
-What is odd is that the laptop doesn't really get hot or turn on the fans much even when playing games like Tanneberg. Strangely the fan makes more noise installing the games than actually playing them.
+I haven't had any need of headphones, that is how quiet it is when playing. I could imagine long sessions playing Tannenberg may require them but I haven't had time to invest that kind of time yet.
+
+What is odd is that the laptop doesn't really get hot or turn on the fans much even when playing games like Tanneberg. **Strangely the fan makes more noise installing the games than actually playing them.**
 
 ## Software/OS
 
