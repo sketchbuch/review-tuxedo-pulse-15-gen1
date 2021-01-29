@@ -80,7 +80,7 @@ The backlight doesn’t bleed too much, and seems pretty consistent across the w
 
 There are no issues with the keys and within an hour I was used to its feel. At first I touched the wrong keys as the layout and spacing are slightly different from what I have been using.
 
-I do miss a function key to turn the backlight on and off but it is something I can live with (someone pointed out that Fn + Space turns the ligh on and off). The caps lock key has an LED so, unlike my InfinityBook, I can actually see when caps lock is on.
+I do miss a function key to turn the backlight on and off but it is something I can live with (someone pointed out that Fn + Space turns the light on and off). The caps lock key has an LED so, unlike my InfinityBook, I can actually see when caps lock is on.
 
 ![Case Open](https://github.com/sketchbuch/review-tuxedo-pulse-15-gen1/blob/main/images/Keyboard.jpg)
 
