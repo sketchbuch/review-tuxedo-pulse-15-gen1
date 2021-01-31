@@ -102,7 +102,13 @@ This laptop would be perfectly usable in an office environment and wouldn’t bo
 
 ### Battery
 
-Charging via USB-C works well with my 87W Apple charger but I plan on getting my own USB charger for this. The battery life is amazing and will certainly be useful when travelling. 
+Charging via USB-C works well with my 87W Apple charger but I plan on getting my own USB charger for this. The battery life is amazing and will certainly be useful when travelling.
+
+### Speakers
+
+They seem perfectly fine to me. I don't listen to music, but watch a lot of youtube/netflix and hav no complaints about it. Maybe if you listen to music regularly or make music you may find them lacking. I guess if sound is that important to you though you probably already have external speakers.
+
+Unlike my InifnityBook the function keys to control the speakers are on the f1-f3 keys which is nice because they are directly above the function key (next to the tux key). This means you can control the sound with one hand instead of needing two like with the InifnintyBook.
 
 ## Games
 
