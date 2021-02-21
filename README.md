@@ -86,6 +86,8 @@ I do miss a function key to turn the backlight on and off but it is something I 
 
 ![Case Open](https://github.com/sketchbuch/review-tuxedo-pulse-15-gen1/blob/main/images/Keyboard.jpg)
 
+Unlike with the infinity book there is a Function lock (<kbd>Fn</kbd> + <kbd>Esc</kbd>) which is useful when just watching Netflix or Amazon Prime as you can easily control brightness/volume by pressing just one button instead of having to hold down the <kbd>Fn</kbd> key.
+
 ### Touchpad
 
 I’m afraid I never really use these so can’t say much about it except that there is an LED in the top right corner that comes on when the touchpad is off. You can toggle it on and off by double clicking the LED. There are no buttons so you get a large area to swipe around on.
@@ -96,7 +98,7 @@ When not doing much the laptop is cool and quiet. I’m just using the default p
 
 I haven’t felt any real heat from the laptop even when playing games, although admittedly I haven’t tried playing for a long time yet. I also need to develop but I imagine the fan will start then from time-to-time - even my MacBook does this and so did the InfinityBook.
 
-When just watching YouTube or Netflix there is no fan so you can watch films in peace. When there really is no ambient noise I can sometimes hear a slight clicking sound which doesn’t really bother me. I’m not sure what this is or if it can be stopped but the InfinityBook did this occasionally too.
+When just watching YouTube or Netflix there is no fan so you can watch films in peace. When there really is no ambient noise I can sometimes hear a slight clicking sound which doesn’t really bother me. I’m not sure what this is or if it can be stopped but the InfinityBook did this occasionally too. **I have since discovered the cause of this is the [USB ports when on battery](https://www.reddit.com/r/tuxedocomputers/comments/liyzip/usb_ports_on_pulse_15/).**
 
 This laptop would be perfectly usable in an office environment and wouldn’t bother anyone who was working nearby.
 
