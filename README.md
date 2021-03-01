@@ -198,6 +198,7 @@ The Pulse has exceeded my expectations - it is beautiful, looks and feels like a
 * Consider using a chiclet keyboard
 * Provide the option of buying a USB-C charger, either instead of or in addition to a normal charger
 * Provide an uninstall script for the additional software that you install
+* Add an LED for FNLOCK
 
 ![Pulse 1](https://raw.githubusercontent.com/sketchbuch/review-tuxedo-pulse-15-gen1/main/images/Power%20Shot.jpg)
 
