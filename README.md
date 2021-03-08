@@ -158,7 +158,7 @@ The Gnome Activities hot corner was also turned off, I re-enabled this via Gnome
 
 There was also lots of software installed that I didn't want or expect. A lot of KDE stuff and free games. There was even some duplication like a KDE terminal and KDE System Monitor when Gnome already has these. I would rather that Tuxedo had not installed this stuff, maybe they should provide an unistall script for this stuff. 
 
-I repartitioned the drive via a Live USB stick and moved /home to it's own partition. It would be nice if this was an option when ordering. There was also a swap partition which I didn't think Ubuntu needed anymore. Not sure if this is better than a swap file, but maybe Tuxedo prefer it. 
+I repartitioned the drive via a Live USB stick and moved /home to it's own partition. It would be nice if this was an option when ordering. There was also a swap partition which I didn't think Ubuntu needed anymore. I have no idea if this is better than a swap file, but maybe Tuxedo prefer it. 
 
 ## Problems encountered
 
