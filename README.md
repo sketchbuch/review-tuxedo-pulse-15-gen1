@@ -136,6 +136,8 @@ I haven't had any need of headphones, that is how quiet it is when playing. ~~I 
 
 What is odd is that the laptop doesn't really get hot or turn on the fans much even when playing games like Tanneberg. **Strangely the fan makes more noise installing the games than actually playing them.**
 
+![Games Overview](https://raw.githubusercontent.com/sketchbuch/review-tuxedo-pulse-15-gen1/main/images/Video%20Overview.png)
+
 ### Videos
 
 The following videos are not great quality and trying to play verdun with 1 hand whilst holding my mobile in the other gives the impression that there is lag when there isn't. It plays really smooth.
