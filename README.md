@@ -255,6 +255,8 @@ Also recently the <kbd>space</kbd>, <kbd>a</kbd>, and <kbd>p</kbd> keys seem to 
 
 Tuxedo seem to have made changes to the Control Centre and since then the keyboard backlight has issues including now only have 2 levels (on and off) and not remembering the state after suspend/sleep.
 
+Issues with backlights are something others reported too.
+
 ### Touchpad
 
 The only issue I have here is that the light is sometimes not on, even when the touchpad is off. Again this is something that appears to randomly occur.
@@ -263,9 +265,9 @@ The only issue I have here is that the light is sometimes not on, even when the 
 
 A problem I have often had is that charging stops whilst charging and it is then not possible to charge any more, neither with the barrel charger nor with a USB-C charger.
 
-When this happens I have to keep the laptop on until it powers it self off. I then connect my phone via the USB-C port to charge so that the remaining charge drains from the battery.
+When this happens I have to keep the laptop on until it powers itself off. I then connect my phone via the USB-C port to charge so that the remaining charge drains from the battery.
 
-About 10-20 minutes after this happens I can turn on and recharge the Pulse. This is frustrating but I haven't found any other solution and Tuxedo do not know the cause as it is to intermittent. I did see one other post from someone else with a pulse on Reddit who had the same issue.
+About 10-20 minutes after this happens I can turn on and recharge the Pulse. This is frustrating but I haven't found any other solution and Tuxedo do not know the cause as it is too intermittent. I did see one other post from someone else with a pulse on Reddit who had the same issue.
 
 ### Overall
 
