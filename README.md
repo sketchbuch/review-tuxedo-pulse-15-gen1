@@ -2,7 +2,7 @@
 
 A review of the [Tuxedo Pulse 15 (Gen 1)](https://www.tuxedocomputers.com/en/Linux-Hardware/Linux-Notebooks/15-16-inch/TUXEDO-Book-Pulse-15-Gen1.tuxedo).
 
-![Pulse 4](https://raw.githubusercontent.com/sketchbuch/review-tuxedo-pulse-15-gen1/main/images/Desktop.jpg)
+![Pulse 15 Gen 1](https://raw.githubusercontent.com/sketchbuch/review-tuxedo-pulse-15-gen1/main/images/Desktop.jpg)
 
 ## Specs
 
@@ -142,13 +142,16 @@ What is odd is that the laptop doesn't really get hot or turn on the fans much e
 
 The following videos are not great quality and trying to play verdun with 1 hand whilst holding my mobile in the other gives the impression that there is lag when there isn't. It plays really smooth.
 
-[Video - Deadfire](https://photos.app.goo.gl/8ptD9Py8xmoa7Qex8)
+> **Note**
+> Videos Removed
 
-[Video - XCOM2](https://photos.app.goo.gl/3RK2u7GoXx7zj5mJ8)
+~~[Video - Deadfire](https://photos.app.goo.gl/8ptD9Py8xmoa7Qex8)~~
 
-[Video - Verdun 1](https://photos.app.goo.gl/bxdnbSCTQvZfuTwj9)
+~~[Video - XCOM2](https://photos.app.goo.gl/3RK2u7GoXx7zj5mJ8)~~
 
-[Video - Verdun 2](https://photos.app.goo.gl/rPMPhmMo6HU5G9RBA)
+~~[Video - Verdun 1](https://photos.app.goo.gl/bxdnbSCTQvZfuTwj9)~~
+
+~~[Video - Verdun 2](https://photos.app.goo.gl/rPMPhmMo6HU5G9RBA)~~
 
 ## Software/OS
 
@@ -209,3 +212,65 @@ The Pulse has exceeded my expectations - it is beautiful, looks and feels like a
 ![Pulse 3](https://raw.githubusercontent.com/sketchbuch/review-tuxedo-pulse-15-gen1/main/images/Processors.jpg)
 
 *NB: I plan on updating this review when I have used the Pulse for longer - especially when I have played games for longer. If you have any questions post them as issues in this repo or on the [reddit thread](https://www.reddit.com/r/tuxedocomputers/comments/l7ngbi/tuxedo_pulse_15_review/).*
+
+## Update (22nd of May 2023)
+
+A small update after nearly 2 and a half years.
+
+### CMOS Battery died
+
+I hadn't used the laptop for a month when I was on holiday and came back to find the laptop would not boot. Secure boot was enabled for some reason (Tuxedo disables this but by default the BIOS sets this to on) which prevented boot.
+
+After a few months this happened whenever the laptop was off for more than about 20 minutes.
+
+I contacted Tuxedo and they asked me to switch the webcam off in the BIOS and see if it became enabled. This wasn't an issue as I almost never use it any way.
+
+Sure enough it did, this is also the default BIOS config. Tuxedo kindly sent me 2 new CMOS batteries and after installing everything worked well.
+
+### Rubber feet started peeling off
+
+There are 2 rubber strips that run the width of the laptop, one at the front and one at the back of the rear of the laptop. The back strip was starting to peel off, I guess due to heat as the front strip is fine.
+
+I contacted Tuxedo asking about what kind of tape to use to stick it down and they said they could send me a new backplate. I was happy as part of the dark finished had come off at the corners, but I think my 2 year guarantee was over so was surprised to get a new cover for nothing!
+
+The new plate even came with serial number stickers that the old one had so I didn't need to transfer them. I was very impressed with the customer service here.
+
+### External Monitors
+
+Although at the beginning I mentioned that I don't use external monitors, I now have one - mainly due to Corona and working from home. 
+
+I bought a [Dell Ultrasharp 27"](https://www.amazon.de/gp/product/B07JGSPQV2) display and it works well with the pulse.
+
+The only issue I sometimes have is that there is random white dots/speckling that sometimes appears on the display. I have a 50cm HDMI cable that the Pulse 15 page mention you need but this still occurs.
+
+I'm pretty sure this is some how related to the pulse, but as I don't know much about hardware I can't say what the issue is. I have a Macbook from my employer for my day job and it does not have this issue when using the display with the same HDMI cable.
+
+### Keyboard
+
+The keyboard has been great, I still would prefer a chiclet keyboard like my old InfinityBook had but it is good to type on and the larger keys are nice.
+
+So far, none of the printing has worn off, but due to the wide gaps around the keys dust does accumulate which doesn't look so nice.
+
+Also recently the <kbd>space</kbd>, <kbd>a</kbd>, and <kbd>p</kbd> keys seem to stop working, I have to blow dust out and then then they seem to work. But it keeps happening so I shall watch this issue in case the keyboard is failing.
+
+Tuxedo seem to have made changes to the Control Centre and since then the keyboard backlight has issues including now only have 2 levels (on and off) and not remembering the state after suspend/sleep.
+
+### Touchpad
+
+The only issue I have here is that the light is sometimes not on, even when the touchpad is off. Again this is something that appears to randomly occur.
+
+### Charging
+
+A problem I have often had is that charging stops whilst charging and it is then not possible to charge any more, neither with the barrel charger nor with a USB-C charger.
+
+When this happens I have to keep the laptop on until it powers it self off. I then connect my phone via the USB-C port to charge so that the remaining charge drains from the battery.
+
+About 10-20 minutes after this happens I can turn on and recharge the Pulse. This is frustrating but I haven't found any other solution and Tuxedo do not know the cause as it is to intermittent. I did see one other post from someone else with a pulse on Reddit who had the same issue.
+
+### Overall
+
+I'm very pleased with the performance, and it is an amazing laptop. I'm also impressed by Tuxedo's customer service.
+
+Gaming is great on the laptop and I like not needing headphones for this. There are only 1-2 games I would like to play but can't but in a few years I shall be looking for a new laptop and can wait.
+
+I would certainly be interested in future generations of the pulse.
