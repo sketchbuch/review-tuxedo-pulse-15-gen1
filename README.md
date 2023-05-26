@@ -231,7 +231,7 @@ Sure enough it did, this is also the default BIOS config. Tuxedo kindly sent me 
 
 There are 2 rubber strips that run the width of the laptop, one at the front and one at the back of the rear of the laptop. The back strip was starting to peel off, I guess due to heat as the front strip is fine.
 
-I contacted Tuxedo asking about what kind of tape to use to stick it down and they said they could send me a new backplate. I was happy as part of the dark finished had come off at the corners, but I think my 2 year guarantee was over so was surprised to get a new cover for nothing!
+I contacted Tuxedo asking about what kind of tape to use to stick it down and they said they could send me a new backplate. I was happy as part of the dark finish had come off at the corners, but I think my 2 year guarantee was over so was surprised to get a new cover for nothing!
 
 The new plate even came with serial number stickers that the old one had so I didn't need to transfer them. I was very impressed with the customer service here.
 
