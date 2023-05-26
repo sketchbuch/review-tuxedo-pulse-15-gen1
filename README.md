@@ -145,13 +145,13 @@ The following videos are not great quality and trying to play verdun with 1 hand
 > **Note**
 > Videos Removed
 
-~~[Video - Deadfire](https://photos.app.goo.gl/8ptD9Py8xmoa7Qex8)~~
+~~Video - Deadfire~~
 
-~~[Video - XCOM2](https://photos.app.goo.gl/3RK2u7GoXx7zj5mJ8)~~
+~~Video - XCOM2~~
 
-~~[Video - Verdun 1](https://photos.app.goo.gl/bxdnbSCTQvZfuTwj9)~~
+~~Video - Verdun 1~~
 
-~~[Video - Verdun 2](https://photos.app.goo.gl/rPMPhmMo6HU5G9RBA)~~
+~~Video - Verdun 2~~
 
 ## Software/OS
 
